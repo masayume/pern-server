@@ -64,7 +64,7 @@ psql -U postgres
 const Pool = require("pg").Pool;
 
 const pool = new pool({
-  user "postgres",
+  user: "postgres",
   password: "kth18822",
   host: "localhost",
   port: 5432,
