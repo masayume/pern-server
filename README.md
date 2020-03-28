@@ -1,4 +1,11 @@
 # pern-server
 PERN server
 
-# [tutorial](https://www.youtube.com/watch?v=ldYcgPKEZC8)
+# PERN
+- postgres
+- express
+- react
+- node
+
+# tutorial
+[main tutorial](https://www.youtube.com/watch?v=ldYcgPKEZC8)
